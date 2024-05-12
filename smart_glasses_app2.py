@@ -14,7 +14,7 @@ import pygame
 from gtts import gTTS
 
 # Configuration constants
-BASE_URL = 'https://ac8c-102-191-232-144.ngrok-free.app'
+BASE_URL = ''
 ACCESS_KEY = ACCESS_KEY  # Assuming you have defined ACCESS_KEY elsewhere
 KEYWORD_FILE_PATH = KEYWORD_FILE_PATH  # Assuming you have defined KEYWORD_FILE_PATH elsewhere
 SENSITIVITY = 0.5
